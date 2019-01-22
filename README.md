@@ -163,6 +163,7 @@ Write JS code that generates the booking price for each `booker` from `index.js`
 ]
 ```
 
+
 ### 🍺 Step 2 - Send more, pay less
 
 #### Decreasing pricing for people
@@ -201,6 +202,8 @@ Adapt the booking price computation to take these new rules into account.
   }
 ]
 ```
+
+console.log("Hello")
 
 ### 💰 Step 3 - Give me all your money
 
